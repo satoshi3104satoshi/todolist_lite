@@ -1,1 +1,1 @@
-# todolist_lite
+django tutorial todo 
